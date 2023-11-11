@@ -1,0 +1,2 @@
+# ros2_multicast
+Jetsonの処理が重いとき，ROS 2のmulticast機能を利用することで，別のPCでRViz2の可視化や画面録画，rosbag2の記録をし，Jetson側の処理を軽くすることができる．
